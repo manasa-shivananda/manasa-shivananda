@@ -21,7 +21,11 @@ workflow automation.
 **Tools:** Git, VS Code, AWS  
 
 ## Projects
-🚧 Building in progress — check back soon
+
+### 🔍 [AI Code Reviewer](https://github.com/manasa-shivananda/ai-code-reviewer)
+AI-powered code reviewer that catches bugs, security 
+vulnerabilities and performance issues using Claude API.
+Built with Node.js + Express + Claude API.
 
 
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/manasashivananda/)
