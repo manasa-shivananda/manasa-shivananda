@@ -15,7 +15,7 @@ workflow automation.
 💼 Open to full-stack & AI integration roles from mid-2026  
 
 ## Tech Stack
-**Backend:** Java (8 yrs), Node.js, REST APIs  
+**Backend:** Java, Node.js, REST APIs  
 **Frontend:** React, JavaScript  
 **AI:** Claude API, MCP, Prompt Engineering  
 **Tools:** Git, VS Code, AWS  
@@ -23,10 +23,6 @@ workflow automation.
 ## Projects
 🚧 Building in progress — check back soon
 
----
-💬 Connect with me on [LinkedIn](your-linkedin-url-here)
-```
 
-**After pasting:**
-```
-Scroll down → Click "Commit changes" → Commit directly to main
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/manasashivananda/)
+
