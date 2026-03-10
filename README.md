@@ -22,7 +22,7 @@ workflow automation.
 
 ## Projects
 
-### 🔍 [AI Code Reviewer](https://github.com/manasa-shivananda/ai-code-reviewer)
+🔍 [AI Code Reviewer](https://github.com/manasa-shivananda/ai-code-reviewer)
 AI-powered code reviewer that catches bugs, security 
 vulnerabilities and performance issues using Claude API.
 Built with Node.js + Express + Claude API.
