@@ -27,6 +27,11 @@ AI-powered code reviewer that catches bugs, security
 vulnerabilities and performance issues using Claude API.
 Built with Node.js + Express + Claude API.
 
+ 📄 [AI Document Q&A](https://github.com/manasa-shivananda/ai-document-qa)
+Upload any PDF and ask questions in plain English. 
+Get instant answers with exact page references — 
+powered by Claude API and RAG pipeline.
+Built with Node.js + Express + Claude API + pdf-parse.
 
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/manasashivananda/)
 
