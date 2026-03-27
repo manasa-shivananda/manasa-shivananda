@@ -33,7 +33,7 @@ Get instant answers with exact page references —
 powered by Claude API and RAG pipeline.
 Built with Node.js + Express + Claude API + pdf-parse.
 
-💼 [ai-job-assistant](https://github.com/manasa-shivananda/ai-job-assistant)
+💼 [AI Job Assistant](https://github.com/manasa-shivananda/ai-job-assistant)
 Paste a job description and resume — get a tailored 
 cover letter, match score and skill gap analysis 
 powered by Claude AI with Tool Use.
