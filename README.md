@@ -39,5 +39,9 @@ cover letter, match score and skill gap analysis
 powered by Claude AI with Tool Use.
 Built with Node.js + Express + Claude API.
 
+🔧 [OpenMagic](https://github.com/Kalmuraee/OpenMagic)
+Browser-side AI coding toolbar for live web app edits with context capture and approved diffs.
+Built for approval-gated edits in real apps.
+
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/manasashivananda/)
 
